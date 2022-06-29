@@ -1,0 +1,153 @@
+.font-label-amatic-sc, .regular-amatic-sc {
+    font-family: 'Amatic SC', cursive;}
+    
+    .font-label-bilbo-swash-caps, .regular-bilbo-swash-caps {
+    font-family: 'Bilbo Swash Caps', cursive;}
+    
+    .font-label-julius-sans-one, .regular-julius-sans-one, h1 {
+    font-family: 'Julius Sans One', sans-serif;}
+    
+    .bold-amatic-sc {
+      font-family: 'Amatic SC', cursive;
+      font-weight: 700;
+    }
+    
+    .font-label-amatic-sc, .font-label-bilbo-swash-caps, .font-label-julius-sans-one {
+      text-decoration: underline;
+    }
+    .color-label {
+      font-family: 'Bilbo Swash Caps', cursive;
+      font-size: 25px;
+      text-align: center;
+    }
+    
+    .color-hex {
+      text-align: right;
+    }
+    
+    h2 {
+      font-family: 'Julius Sans One';
+      margin: 5px 5px;
+    }
+    
+    .h2 {
+      font-family: 'Julius Sans One';
+      text-align: center;
+      text-decoration: underline;
+    }
+    
+    .para {
+      font-family: 'Amatic SC';
+      text-align: center;
+      text-decoration: underline;
+      font-size: 1.5em;
+    }
+    
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+    
+    .title {
+      color: #bf360c;
+      font-family: 'Bilbo Swash Caps', cursive;
+      letter-spacing: 0.34em;
+    }
+    
+    .container {
+      border: 5px inset #81c784;
+      padding: 0px;
+      margin: 0 auto;
+      width: 80%;
+      text-align: right;
+      border-radius: 15px;
+      text-shadow: 2px 2px 3px #81c784;
+    }
+    
+    .color-container {
+      margin: 0 auto;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      text-align: center;
+      display: block;
+    }
+    
+    .color-panel-sage-green {
+      background-color: #81c784;
+      border-radius: 15px 40px;
+      text-shadow: 2px 2px 4px #fff;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: .5em;
+      padding: 5px 5px;
+      margin-bottom: .5em;
+      outline: 2px solid #004d40;
+    }
+    
+    .color-panel-just-peachy {
+      background-color: #ffbb93;
+      color: #000;
+      border-radius: 15px 40px;
+      text-shadow: 2px 2px 4px #fff;
+      display: inline-block;
+      vertical-align: middle;
+      margin-bottom: .5em;
+      padding: 5px 5px;
+      outline: 2px solid #bf360c;
+    }
+    
+    .color-panel-deep-teal {
+      background-color: #004d40;
+      border-radius: 15px 40px;
+      color: #fff;
+      text-shadow: 2px 2px 4px #000;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: .5em;
+      padding: 5px 5px;
+      outline: 4px solid #81c784;
+    }
+    
+    .color-panel-terracotta {
+      background-color: #bf360c;
+      border-radius: 15px 40px;
+      color: #fff;
+      text-shadow: 2px 2px 4px #000;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: .5em;
+      padding: 5px 5px;
+      outline: 4px solid #ffbb93;
+    }
+    
+    .font-panel {
+      width: 45%;
+      display: block;
+      font-size: 20px;
+      text-align: center;
+      margin: 0 auto;
+    }
+    
+    .font-label {
+      font-size: 20px;
+      text-decoration: underline;
+    }
+    
+    .text-panel ul{
+      font-size: 20px;
+      font-family: 'Amatic SC', cursive;
+      display: inline;
+      text-align: center;
+    }
+    
+    .style, .h2, .para, .butts {
+      padding-bottom: 2px;
+      padding-top: 5px;
+    }
+    
+    .butts {
+      text-align: center;
+      font-family: 'Bilbo Swash Caps', cursive;
+      text-decoration: underline;
+      font-size: 23px;
+    }
